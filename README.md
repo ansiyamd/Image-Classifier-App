@@ -12,7 +12,7 @@ This is an AI image classifier built using a Convolutional Neural Network (CNN) 
 - Clean UI with results and confidence
 - Sidebar with class info
 
-## ▶️ How to Run
+## 🏃‍♀️‍➡️ How to Run
 ```bash
 pip install streamlit tensorflow pillow numpy
 streamlit run main.py
